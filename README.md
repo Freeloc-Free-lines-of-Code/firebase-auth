@@ -20,7 +20,7 @@ REACT_APP_APIKEY = ''
 REACT_APP_AUTHDOMAIN = ''
 ```
 
-To complete setup, register your app with the platform specific OAuth service and obtain **APP ID** and **APP Secret**
+To complete setup, register your app with the platform specific OAuth service and obtain **APP ID** and **APP Secret** <br/>
 [Register Facebook Login](https://developers.facebook.com/apps) <br/>
 [Register Github Login](https://github.com/settings/developers)
 
